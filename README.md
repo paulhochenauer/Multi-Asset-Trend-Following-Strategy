@@ -1,5 +1,6 @@
 # Multi-Asset-Trend-Following-Strategy
-ESILV Algotrading 2025-26 Capstone Project Author: Paul Hochenauer
+ESILV Algotrading 2025-26 Capstone Project
+Author: Paul Hochenauer
 
 ## Project Overview
 This project implements and optimizes a cross-asset quantitative trading strategy based on Managed Futures (Commodity Trading Advisors - CTA) principles. The goal is to study a simple trend-following algorithm and refine it to improve risk-adjusted returns across various market regimes.
